@@ -1,2 +1,2 @@
 
-[Video](https://github.com/JosepAnSabate/arduino-led-strip/raw/main/video.mp4)
+[Video](https://s3.eu-west-1.amazonaws.com/geomapsblog.com/public/vendor/video.mp4)
