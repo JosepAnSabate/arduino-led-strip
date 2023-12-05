@@ -1,1 +1,2 @@
-![](https://github.com/JosepAnSabate/arduino-led-strip/raw/main/video.mp4)
+
+[Video](https://github.com/JosepAnSabate/arduino-led-strip/raw/main/video.mp4)
